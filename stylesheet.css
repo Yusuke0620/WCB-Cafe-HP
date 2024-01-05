@@ -57,7 +57,7 @@ img {
 /* #HOME
 ------------------------------- */
 #home {
-    background-image: url(../images/main-bg.jpg);
+    background-image: url(main-bg.jpg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -103,7 +103,7 @@ img {
 /* #NEWS
 ------------------------------- */
 #news {
-    background-image: url(../images/news-bg.jpg);  
+    background-image: url(news-bg.jpg);  
     height: 270px;
     margin-bottom: 40px;
 }
