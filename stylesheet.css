@@ -101,7 +101,7 @@ img {
 /* #NEWS
 ------------------------------- */
 #news {
-    background-image: url(news-bg.jpg);  
+    background-image: url("news-bg.jpg");  
     height: 270px;
     margin-bottom: 40px;
 }
@@ -192,7 +192,7 @@ aside p {
 /* #MENU
 ------------------------------- */
 #menu {
-    background-image: url(menu-bg.jpg);
+    background-image: url("menu-bg.jpg");
     min-height: 100vh;
 }
 .menu-contents {
@@ -228,7 +228,7 @@ aside p {
 /* #CONTACT
 ------------------------------- */
 #contact {
-    background-image:url(contact-bg.jpg);
+    background-image:url("contact-bg.jpg");
     min-height: 100vh;
 }
 
